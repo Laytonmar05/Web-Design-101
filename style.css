@@ -48,6 +48,7 @@ h1 {
   color: white;
   text-shadow: 1px 1px 1px #14136b;
   padding: 0px;
+  font-size: large;
 }
 nav li {
   display: inline-block;
