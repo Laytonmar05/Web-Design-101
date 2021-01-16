@@ -34,6 +34,7 @@ h2 {
 p {
   float: left;
   color: black;
+  font-size: larger;
 }
 img {
   max-width: 50%;
