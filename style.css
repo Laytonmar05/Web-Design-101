@@ -33,7 +33,8 @@ h2 {
 }
 p {
   float: left;
-  color: black
+  color: black;
+  font-size: large;
 }
 img {
   max-width: 50%;
