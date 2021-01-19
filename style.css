@@ -5,6 +5,9 @@ section,
 h1 {
   margin-left: 10px;
 }
+h1{
+  font-size: 100px;
+}
 
 html {
   background: lightgray;
